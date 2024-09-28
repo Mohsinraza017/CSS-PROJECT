@@ -54,3 +54,8 @@ body {
 .home-content {
     width: 600px;
 }
+
+.tq {
+    color: aqua;
+    background-color: blueviolet;
+}
